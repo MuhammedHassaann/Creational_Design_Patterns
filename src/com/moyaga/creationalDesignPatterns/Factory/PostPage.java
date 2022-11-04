@@ -1,4 +1,4 @@
 package com.moyaga.creationalDesignPatterns.Factory;
 
-public class Factory {
+public class PostPage extends Page{
 }

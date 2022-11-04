@@ -37,7 +37,6 @@ public class PrototypeDemo {
         anotherMovie.setTitle("Gang Of Four");
         System.out.println(anotherMovie);
         System.out.println(anotherMovie.getTitle());
-
         System.out.println(anotherMovie.getRunTime());
         System.out.println(anotherMovie.getUrl());
 
