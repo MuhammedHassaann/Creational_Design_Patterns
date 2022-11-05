@@ -1,4 +1,5 @@
 package com.moyaga.creationalDesignPatterns.AbstractFactory;
 
-public class AbstractFactory {
+public enum CardType {
+    PLATINUM,GOLD;
 }
